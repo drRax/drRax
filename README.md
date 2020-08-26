@@ -1,7 +1,7 @@
 ### Hi there I'm Rodrigo (a.k.a. rax).
 
 I've been building, programming, and disassembling things since I can remember. I'm a professor in operations research at 
-[UAI](https://ingenieria.uai.cl/) and participate in the [Data Observatory](https://www.dataobservatory.net/). Using math to improve things.
+[Universidad Adolfo Ibáñez](https://ingenieria.uai.cl/) and participate in the [Data Observatory](https://www.dataobservatory.net/). Using math to improve things.
 
 <!--
 **drRax/drRax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

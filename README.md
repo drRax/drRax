@@ -1,7 +1,6 @@
 ### Hi there, I'm Rodrigo A. Carrasco.
 
-I've been building, programming, and disassembling things since I can remember. I'm a professor in operations research at 
-[Universidad Adolfo Ibáñez](https://ingenieria.uai.cl/) and participate in the [Data Observatory](https://www.dataobservatory.net/). 
+I've been building, programming, and disassembling things since I can remember. I'm an Associate Professor at [Universidad Católica de Chile](https://www.uc.cl/) in a joint position at the [Institute of Mathematical Engineering and Computation](https://imc.uc.cl/) and the [Department of Industrial and Systems Engineering](https://www.ing.uc.cl/industrial-y-sistemas/) in the [School of Engineering](https://www.ing.uc.cl/).
 
 Using math to improve things.
 

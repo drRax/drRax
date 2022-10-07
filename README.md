@@ -2,7 +2,7 @@
 
 I've been building, programming, and disassembling things since I can remember. I'm an Associate Professor at [Universidad Católica de Chile](https://www.uc.cl/) in a joint position at the [Institute of Mathematical Engineering and Computation](https://imc.uc.cl/) and the [Department of Industrial and Systems Engineering](https://www.ing.uc.cl/industrial-y-sistemas/) in the [School of Engineering](https://www.ing.uc.cl/).
 
-Using math to improve things.
+Using math (and code) to improve things.
 
 <!--
 **drRax/drRax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
